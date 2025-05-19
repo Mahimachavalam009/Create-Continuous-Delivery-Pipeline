@@ -48,7 +48,9 @@ Choose the app.js file. The contents of the file, including your change, should 
 # Step 2 : 
 
 A. Configure and create an AWS Elastic Beanstalk environment
+
 B. Deploy a sample web app to AWS Elastic Beanstalk
+
 C. Test the sample web app 
 
 # Key concepts
