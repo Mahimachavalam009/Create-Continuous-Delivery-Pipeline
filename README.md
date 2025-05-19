@@ -9,8 +9,11 @@
 
 # Step 1
 A. Fork a GitHub repository to create a new one
+
 B. Store code and metadata in GitHub
+
 C. Interact with a code repository using Git
+
 
 We have created a code repository containing a simple web app. We will be using this repository to start our continuous delivery pipeline. It's important to set it up properly so we push code to it.
 
