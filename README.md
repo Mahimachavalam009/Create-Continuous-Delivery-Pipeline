@@ -7,7 +7,7 @@
  3. Configure AWS CodeBuild to build the source code from GitHub
  4. Use AWS CodePipeline to set up the continuous delivery pipeline with source, build, and deploy stages
 
-# step 1
+# Step 1
 A. Fork a GitHub repository to create a new one
 B. Store code and metadata in GitHub
 C. Interact with a code repository using Git
@@ -28,10 +28,10 @@ git add app.js
 git commit -m "change message"
 ```
 
-now push the clean code : 
+now push the clean code :
+
 ```
 git push
-
 ```
 
 ![image](https://github.com/user-attachments/assets/7e0b1c1a-c3a0-4b66-aa72-a3e3756976c2)
@@ -39,6 +39,7 @@ git push
 
 
 Test your changes : 
+
 Choose the app.js file. The contents of the file, including your change, should be displayed.
 
 # Step 2 : 
@@ -63,4 +64,5 @@ Platform—Combination of operating system, programming language runtime, web se
 
 ![image](https://github.com/user-attachments/assets/9309dd13-bab6-411e-b514-d28de3ab202b)
 
+work in progress
 
